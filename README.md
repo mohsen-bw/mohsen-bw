@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋
 
 <p align="center">
-<img src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=640>
+<img src="https://i.ibb.co/y4j5k9V/code.gif" width=640>
 </p>
 
 <a href="https://line.me/R/ti/p/~M-BW"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
