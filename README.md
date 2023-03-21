@@ -5,21 +5,36 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
 <div align="center">
+### Hi there 👋
 
-<h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/mosen.bw"><img src="https://img.shields.io/badge/Intagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black"/> 
-  <a href="https://wa.me/6289533669257?text=Hay%20Abang%20boleh%20gak%20kujadi%20pacarnya"><img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black" />
-  <a href="https://m.facebook.com/photo.php?fbid=2225284347524261&id=1000081536035"><img src="https://img.shields.io/badge/Facebook-%FFD700.svg?&style=for-the-badge&logo=facebook&logoColor=black" />
-  <a href="https://t.me/MSN-BW"><img src="https://img.shields.io/badge/Telegram-%FFD700?&style=for-the-badge&logo=telegram&logoColor=black" /> 
-  <a href="https://github.com/MOHSEN-BW"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+<img src="https://c.tenor.com/zyh9YnJR5P8AAAAC/shintaro-kisaragi-anime-boy.gif" width=640>
+</p>
 
-### Stats:
-<p align="center"><a href="https://github.com/MOHSEN-BW"><img src="https://github-readme-stats.vercel.app/api?username=DandyHayate&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/MOHSEN-BW"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandyHayate&theme=radical&layout=compact"></a></p> 
+<a href="https://line.me/R/ti/p/~M-BW"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=navaneethkm004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- 
-<div align="center">
-<p><a href="https://github.com/navaneethkm004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethkm004&amp;layout=compact" alt="Top Langs"></a></p></div>  
+# GITHUB STATUS.
+- ![Profile views](https://gpvc.arturio.dev/mohsen-bw)
+- [![GitHub followers](https://img.shields.io/github/followers/mohsen-bw.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mohsen-bw?tab=followers)
+- [![GitHub visits](https://badges.pufler.dev/visits/mohsen-bw/mohsen-bw?style=social&logo=github)](https://github.com/mohsen-bw?tab=visits)
+
+
+<p align="center">
+<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
+</p>
+
+<p align="center">
+<a href="https://github.com/mohsen-bw"><img src="https://github-readme-stats.vercel.app/api?username=mohsen-bw&show_icons=true&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&icon_color=00ccff&bg_color=00000000" width=640></a>
+<a href="https://github.com/mohsen-bw"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-bw&layout=compact&hide_border=true&hide_title=true&title_color=00ccff&text_color=808080&bg_color=00000000" width=640></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mohsen-bw"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohsen-bw&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+
+<p align="center">
+<img src="https://github.com/thirdza056/thirdza056/blob/main/assets/line.gif" width=640>
+</p>
+
+
+![Dino](https://raw.githubusercontent.com/botcuangarali/botcuangarali/master/dino.gif)
