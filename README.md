@@ -3,8 +3,6 @@ mohsen-bw/mohsen-bw is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![snake gif](https://raw.githubusercontent.com/navaneethkm004/navaneethkm004/navaneethkm004-patch-2/snek.svg)
-<div align="center">
 ### Hi there 👋
 
 <p align="center">
